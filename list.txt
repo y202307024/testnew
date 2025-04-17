@@ -1,4 +1,4 @@
-total 17
+total 7
 drwxr-xr-x 1 lmk26 197609  0 Apr 17 11:10 ./
 drwxr-xr-x 1 lmk26 197609  0 Apr 17 08:45 ../
 drwxr-xr-x 1 lmk26 197609  0 Apr 17 11:10 .git/
