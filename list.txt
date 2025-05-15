@@ -9,4 +9,7 @@ drwxr-xr-x 1 lmk26 197609  0 Apr 17 09:20 ignore/
 -rw-r--r-- 1 lmk26 197609  0 Apr 17 11:10 list.txt
 drwxr-xr-x 1 lmk26 197609  0 Apr 17 09:44 test/
 d
+
+
+
 rwxr-xr-x 1 lmk26 197609  0 Apr 17 10:47 testnew/
